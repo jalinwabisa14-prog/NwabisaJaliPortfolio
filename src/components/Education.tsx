@@ -18,7 +18,7 @@ const education = [
 
 const certifications = [
   { name: 'Bachelor of Commerce in Marketing Management', issuer: 'University of Johannesburg', year: '2025', color: 'from-pink-500/20 to-purple-500/20', border: 'border-pink-500/20', badge: 'bg-pink-500/10 text-pink-400' },
-  { name: 'Artelligence in the 4IR', issuer: 'Professional Development', year: '2024', color: 'from-purple-500/20 to-blue-500/20', border: 'border-purple-500/20', badge: 'bg-purple-500/10 text-purple-400' },
+  { name: 'Artificial Intelligence in the 4IR (SLP)', issuer: 'Professional Development', year: '2024', color: 'from-purple-500/20 to-blue-500/20', border: 'border-purple-500/20', badge: 'bg-purple-500/10 text-purple-400' },
   { name: 'Advanced Information Technology', issuer: 'Professional Development', year: '2024', color: 'from-blue-500/20 to-pink-500/20', border: 'border-blue-500/20', badge: 'bg-blue-500/10 text-blue-400' },
 ];
 
